@@ -1,0 +1,13 @@
+{
+  "description": "A WePY project",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wxf1f750dc46d286d8",
+  "projectname": "heimashop",
+  "miniprogramRoot": "./dist"
+}
